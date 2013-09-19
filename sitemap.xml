@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://minecraft.iqandreas.com/blog/new-website-and-youtube-page/</loc>
+        <lastmod>2013-09-19T06:03:22+02:00</lastmod>
+    </url>
+    <url>
         <loc>http://minecraft.iqandreas.com/</loc>
-        <lastmod>2013-09-19T05:06:20+02:00</lastmod>
+        <lastmod>2013-09-19T06:03:22+02:00</lastmod>
     </url>
     <url>
         <loc>http://minecraft.iqandreas.com/archives/</loc>
-        <lastmod>2013-09-19T05:06:20+02:00</lastmod>
+        <lastmod>2013-09-19T06:03:22+02:00</lastmod>
     </url>
 </urlset>
