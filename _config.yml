@@ -27,7 +27,7 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/:categories/:title/
 source: source
 destination: public
 plugins: plugins
@@ -63,7 +63,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user: https://github.com/IQAndreas-Minecraft
+github_user: IQAndreas-Minecraft
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
