@@ -27,7 +27,7 @@ This mod will work both in Single Player and on Multi-player Servers. Only the c
 ### Installation
 {% include minecraft/incompatible_mods_list.html %}
 
- - [Adjustable Anaglyph Patch](/minecraft/adjustable-anaglyph/)
+ - [Adjustable Anaglyph Patch](/patches/minecraft-1.2.5/adjustable-anaglyph/)
 
 {% include minecraft/installation.html %}
 

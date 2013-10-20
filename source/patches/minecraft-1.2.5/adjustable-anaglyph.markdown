@@ -43,7 +43,7 @@ The patch is still in Beta, so any input, feedback, and bug reports are greatly 
 ### Installation
 {% include minecraft/incompatible_mods_list.html %}
 
- - [No More Void Fog! Patch](/minecraft/no-more-void-fog/)
+ - [No More Void Fog! Patch](/patches/minecraft-1.2.5/no-more-void-fog/)
  
 {% include minecraft/installation.html %}
 
