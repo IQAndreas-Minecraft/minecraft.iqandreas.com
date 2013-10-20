@@ -4,10 +4,10 @@
 [[ -s "/home/andreas/.rvm/scripts/rvm" ]] && source "/home/andreas/.rvm/scripts/rvm"  
 
 # Create static site
-rake generate
+bundle exec rake generate
 
 # Publish site to GitHub
-rake deploy
+bundle exec rake deploy
 
 echo ""
 echo "## Commit source to GitHub"
